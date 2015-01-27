@@ -9,7 +9,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "dragonjs": "latest"
+    "dragonjs": "*"
   },
   "directories": {
     "test": "tests"
