@@ -1,0 +1,30 @@
+{
+  "name": "dragon-ui",
+  "main": "dist/dragon-ui.min.js",
+  "homepage": "https://github.com/cobbdb/dragon-ui",
+  "authors": [
+    "cobbdb <cobbdb@gmail.com>"
+  ],
+  "description": "UI Components for Dragon Game Engine.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "dragon",
+    "game",
+    "engine",
+    "ui",
+    "slider",
+    "buttons",
+    "plugin"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

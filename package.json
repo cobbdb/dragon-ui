@@ -1,0 +1,39 @@
+{
+  "name": "dragon-ui",
+  "version": "0.0.1",
+  "description": "UI Components for Dragon Game Engine.",
+  "main": "src/core.js",
+  "devDependencies": {
+    "grunt": "latest",
+    "matchdep": "latest"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "dragonjs": "latest"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cobbdb/dragon-ui.git"
+  },
+  "keywords": [
+    "dragon",
+    "game",
+    "engine",
+    "ui",
+    "slider",
+    "buttons",
+    "plugin"
+  ],
+  "author": "Dan Cobb <cobbdb@gmail.com> (http://www.github.com/cobbdb)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cobbdb/dragon-ui/issues"
+  },
+  "homepage": "https://github.com/cobbdb/dragon-ui"
+}
